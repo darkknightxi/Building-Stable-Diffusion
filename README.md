@@ -1,2 +1,2 @@
 # Building-Stable-Diffusion
-This project is a jupyter notebook which build the Stable Diffusion pipeline of the Hugging Face Diffusers library by putting together the building components of a latent diffusion model.
+🤗 Diffusers library provides a convenient inference pipeline for Stable Diffusion. This notebook attempts to build the pipeline from scratch using the components of Stable Diffusion, namely, Variational Autoencoder, U-net, Schedulers, and Text Encoders. This allows for a better understanding of what is happening behind the scenes as an image is generated, given a prompt, and also provides better control over the output images.
